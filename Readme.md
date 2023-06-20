@@ -5,7 +5,7 @@ My name is Uzma Hashmi. I live in _**Wolfsburg**_.
 
 
 ## Hobbies
-1. <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Cycling ![alt text](https://i.gifer.com/Fm6n.gif)
+1. <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Cycling
 ![alt text](https://i.gifer.com/Fm6n.gif)
 ![ Alt text](6aS.gif)
 
