@@ -1,13 +1,21 @@
 # Uzma Hashmi Profile
 
-My name is Uzma Hashmi. I live in _**Wolfsburg**_.
+My name is Uzma Hashmi. I am from Pakistan.
 
+## Location
 
+🏠 I’m currently living in _**Wolfsburg**_, Germany 🇩🇪. <br/>
 
 ## Hobbies
-1. <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Cycling
-![alt text](https://i.gifer.com/Fm6n.gif)
-![ Alt text](6aS.gif)
+1. <img height="15" width="15" src="https://cdn.simpleicons.org/simpleicons/00ccff66" /> Cycling ![ Alt text](6aS.gif)
+
+
+
+2. ☕️ Food and Drinks
+   
+ 
+
+
 
 # hello world
 
