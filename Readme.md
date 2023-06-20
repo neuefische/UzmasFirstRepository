@@ -1,4 +1,4 @@
-# Uzma Hashmi Profile
+# About Me
 
 My name is Uzma Hashmi. I am from Pakistan.
 
@@ -6,14 +6,18 @@ My name is Uzma Hashmi. I am from Pakistan.
 
 🏠 I’m currently living in _**Wolfsburg**_, Germany 🇩🇪. <br/>
 
-## Hobbies
-1. <img height="15" width="15" src="https://cdn.simpleicons.org/simpleicons/00ccff66" /> Cycling ![ Alt text](6aS.gif)
+## Hobby
+<img style="float: right;width:9000px;height:900px" src="6aS.gif">
+
+## Interest
+
+1. ☕️ Food and Drinks
+2.   Cricket
 
 
 
-2. ☕️ Food and Drinks
-   
- 
+   ![ Alt text](6aS.gif)
+ <img height="15" width="15" src="https://cdn.simpleicons.org/simpleicons/00ccff66" /> Cycling 
 
 
 
